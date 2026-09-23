@@ -2,7 +2,7 @@
 
 ### Landing Page & Funnel Builder | WordPress & Elementor | Front-End Web Developer
 
-I build responsive landing pages, marketing websites, and sales funnel pages designed to turn visitors into leads, bookings, and customers.
+I build responsive landing pages, marketing websites, and sales funnel pages that help businesses turn visitors into leads, bookings, and customers.
 
 I combine front-end development with conversion-focused thinking to create web experiences that are not only professional and responsive, but also structured around the customer journey.
 
