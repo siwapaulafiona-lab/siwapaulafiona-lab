@@ -1,97 +1,104 @@
 # Hi, I'm Paula Siwa 👋
 
-### Landing Page & Funnel Builder | WordPress & Elementor | Front-End Web Developer
+### Front-End Developer | React & JavaScript | Landing Pages & Conversion-Focused Websites
 
-I build responsive landing pages, marketing websites, and sales funnel pages that help businesses turn visitors into leads, bookings, and customers.
+I build responsive, user-friendly websites and landing pages that combine clean front-end development with thoughtful UI/UX and conversion-focused design.
 
-I combine front-end development with conversion-focused thinking to create web experiences that are not only professional and responsive, but also structured around the customer journey.
+My work includes developing business websites, marketing landing pages, affiliate websites, and interactive web experiences using modern front-end technologies. I enjoy turning ideas, designs, and project requirements into functional websites that look great across desktop, tablet, and mobile devices.
 
-## 🚀 What I Build
+I'm continuously growing my skills in React, modern web development, performance optimization, and technical SEO while building real-world projects.
 
-- Landing Pages
-- Lead Generation Websites
-- Sales Funnel Pages
-- Affiliate Landing Pages
-- WordPress & Elementor Websites
+## What I Build
+
 - Responsive Business Websites
-- Product & Service Pages
-- Booking & Appointment Funnels
-- Thank-You & Confirmation Pages
-- Website Redesigns
-- Conversion-Focused Web Experiences
+- React Landing Pages and Web Interfaces
+- Lead Generation and Sales Funnel Pages
+- Marketing and Affiliate Websites
+- Product and Service Pages
+- Website Redesigns and UI Improvements
+- Mobile-First Web Experiences
+- Conversion-Focused User Interfaces
 
-## 🛠️ Skills & Tools
+## Skills & Technologies
 
-### Front-End Development
-HTML5 · CSS3 · JavaScript · Responsive Web Design · Mobile-First Development · Flexbox · CSS Grid
+**Front-End Development**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Responsive and Mobile-First Design
+- Flexbox and CSS Grid
 
-### WordPress
-WordPress · Elementor
+**Tools & Workflow**
+- VS Code
+- Git and GitHub
+- Vite
+- Vercel
+- Chrome DevTools
 
-### Development
-Git · GitHub · VS Code · Vercel
+**Design & Website Building**
+- Figma
+- Canva
+- WordPress
+- Elementor
+- UI/UX Design Principles
+- Landing Page Design
 
-### Design & Marketing
-Figma · Canva · Landing Page Design · Conversion Optimization · Lead Generation
+**Performance & Marketing**
+- Website Performance Optimization
+- Technical SEO Fundamentals
+- Conversion-Focused Design
+- Lead Generation
+- Google Analytics
+- Meta Pixel
 
-### Analytics & Marketing
-Google Analytics · Meta Pixel · CRM & Lead Capture
+**Featured Projects**
 
-## 📌 Featured Projects
+## Art Open — React Landing Page
+A modern landing page project for personalized corporate calendars and notebooks, built with React and Vite.
 
-### 🌿 Leaf Cream Factory
+Focus: React · JavaScript · Component-Based Architecture · Responsive Design · UI/UX
 
-Responsive business website and product-focused web experience for a soap manufacturing business.
+Repository: [View Art Open on GitHub](https://github.com/siwapaulafiona-lab/art-open-landing-page)
 
-**Focus:** Responsive Web Design · Product Pages · User Experience
+## Leaf Cream Factory
+A responsive business website for a soap manufacturing brand, showcasing products and supporting a professional online presence.
 
----
+Focus: HTML · CSS · Responsive Web Design · Product Presentation · User Experience
 
-### 🛍️ SabkiShop
+Repository: [View Leaf Cream Website](https://github.com/siwapaulafiona-lab/leaf-cream-website)
 
-Affiliate marketing website and landing-page experience created to support product promotion and lead generation.
+Balmorex Pro Landing Page
+An affiliate marketing landing page designed to present a product offer clearly and guide visitors toward a call to action.
 
-**Focus:** Affiliate Marketing · Landing Pages · Conversion-Focused Design
+Focus: HTML · CSS · Landing Page Design · Marketing Copy Structure · Conversion Optimization
 
----
+Repository: [View Balmorex Landing Page](https://github.com/siwapaulafiona-lab/balmorex-landing-page)
 
-### 🎯 Affiliate Landing Page
+## SabkiShop
+An affiliate marketing website developed to support product promotion through a focused landing-page experience.
 
-Conversion-focused landing page designed around a clear offer, content hierarchy and call-to-action structure.
+Focus:Web Development · Affiliate Marketing · Responsive Design · User Journey
 
-**Focus:** Landing Page Design · Conversion Optimization · Lead Generation
+Portfolio: [Explore My Portfolio](https://paula-portfolio-two.vercel.app/)
 
----
-
-### 📈 Lead Generation Landing Page
-
-Marketing landing page designed to capture leads and guide visitors toward a specific action.
-
-**Focus:** Lead Generation · CTA Strategy · Responsive Design
-
-## 💡 How I Work
+How I Work
 
 I can work from:
+- Figma designs and wireframes
+- Reference websites and visual concepts
+- Existing websites that need improvements
+- Existing codebases and React projects
+- Client briefs and technical requirements
 
-- Figma designs
-- Wireframes
-- Reference websites
-- Existing websites
-- Existing code
-- Project requirements
+My approach focuses on clean, maintainable code, responsive layouts, intuitive navigation, clear calls to action, and a smooth user experience.
 
-My focus is on creating responsive experiences that work across desktop, tablet and mobile while keeping the user journey clear.
 
-## 📫 Let's Connect
+Let's Connect
 
-🌐 **Portfolio:** [View my portfolio](https://paula-portfolio-two.vercel.app/)
+- Portfolio: [paula-portfolio-two.vercel.app](https://paula-portfolio-two.vercel.app/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/paula-fiona-siwa/)
+- Email: [siwapaulafiona@gmail.com](mailto:siwapaulafiona@gmail.com)
+- GitHub: [Explore my repositories](https://github.com/siwapaulafiona-lab)
 
-💼 **Upwork:** [View my Upwork profile](https://www.upwork.com/)
-
-📌 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/paula-fiona-siwa)
-
----
-
-### Currently focused on
-
-**WordPress · Elementor · Landing Pages · Sales Funnels · Responsive Web Development**
+**Open to freelance projects and remote opportunities in front-end development, React, landing page development, and website design.**
